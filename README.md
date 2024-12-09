@@ -129,4 +129,6 @@ http://<YOUR_EC2_PUBLIC_IP>:8000
 
 ---
 
+![Screenshot 2024-12-09 at 7 54 50 PM](https://github.com/user-attachments/assets/3ec018a4-ac95-40b9-865d-196228a35c79)
 
+![image](https://github.com/user-attachments/assets/e5901c99-7deb-4480-83cf-edd1d1dc6239)
